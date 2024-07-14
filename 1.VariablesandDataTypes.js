@@ -43,7 +43,7 @@ console.log(myname) // ravi sankar
 
 //Activity 5: Understanding Const
 const mynumber = 13
-//  mynumber=44 // TypeError:Assigment to constant variable.  #you con't update the const value .
+//  mynumber=44 // TypeError:Assigment to constant variable.  #you can't update the const value .
 
 
 //Summery Of This Article;
